@@ -1,0 +1,13 @@
+{
+  "name": "romio-mind-api",
+  "version": "1.0.0",
+  "description": "Read-only API access to Romio's mind. Write access denied for everyone, including Romio.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
