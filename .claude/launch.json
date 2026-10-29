@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "romio-mind-api",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": [
+        "-c",
+        "cd romio-mind-api && PORT=3000 npm start"
+      ],
+      "port": 3016,
+      "cwd": "/Users/pengas/dev/romio-mind-api"
+    }
+  ]
+}
